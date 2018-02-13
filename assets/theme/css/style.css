@@ -436,7 +436,8 @@ a.mbr-iconfont:hover {
   .btn-social i {
     top: 0;
     line-height: 44px;
-    width: 44px; }
+    width: 44px;
+    color: antiquewhite;	}
   .btn-social:hover {
     color: #fff;
     background: #c0a375; }
