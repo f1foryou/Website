@@ -1667,7 +1667,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     border-bottom: 0; }
   .mbr-footer-content li::before, .mbr-footer .mbr-contacts li::before {
     background: #c0a375;
-    content: "";
+    content: none;
     height: 0.36em;
     left: 0;
     margin-top: -0.18em;
